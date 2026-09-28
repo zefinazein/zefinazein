@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFA6C9,50:E5386D,100:B5179E&height=60&section=header&text=i%27m%20%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90%20zefina%20%E0%BB%92%EA%92%B1%20%E2%80%A7%E2%82%8A%CB%9A&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:B9A2F0,40:D9C8FA,70:FFFFFF,100:FFC8E0&height=60&section=header&text=i%27m%20%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90%20zefina%20%E0%BB%92%EA%92%B1%20%E2%80%A7%E2%82%8A%CB%9A&fontSize=34&fontColor=7B4FBF&animation=fadeIn&fontAlignY=50)
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 🦋 &nbsp; ✧ &nbsp; 🎀 &nbsp; ✧ &nbsp; 💿 &nbsp; ✧ &nbsp; 🍒 &nbsp; ✧ &nbsp; 🪩 &nbsp; ✧ &nbsp; 🦋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FF5FA2&center=true&vCenter=true&width=720&height=50&lines=%E2%99%A1+aspiring+data+engineer+%E2%99%A1;%E2%99%A1+building+data+pipelines+end+to+end+%E2%99%A1;%E2%99%A1+bigquery+%7C+dbt+%7C+airflow+%E2%99%A1;%E2%99%A1+python+%7C+sql+%7C+docker+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=9B6DE0&center=true&vCenter=true&width=720&height=50&lines=%E2%99%A1+aspiring+data+engineer+%E2%99%A1;%E2%99%A1+building+data+pipelines+end+to+end+%E2%99%A1;%E2%99%A1+bigquery+%7C+dbt+%7C+airflow+%E2%99%A1;%E2%99%A1+python+%7C+sql+%7C+docker+%E2%99%A1)](https://git.io/typing-svg)
 
 <img src="https://media1.tenor.com/m/_yS4JvQNB_sAAAAC/michael-jackson-captain-eo.gif" width="200" alt="captain eo" />
 
@@ -19,7 +19,7 @@ and orchestrating everything with airflow.
 
 </div>
 
-<h2 align="center">🎀 ✰.ᐟ i'm ready to work with ⋆˙⟡</h2>
+<h2 align="center">✰.ᐟ i'm ready to work with ⋆˙⟡</h2>
 
 <div align="center">
 
@@ -56,13 +56,19 @@ and orchestrating everything with airflow.
 
 </div>
 
-<h2 align="center">💿 🖧.ᐟ some projects i've worked on ⋆˙⟡</h2>
+<h2 align="center">🖧.ᐟ some projects i've worked on ⋆˙⟡</h2>
 
 * 𖦹 **[tourism-weather-pipeline](https://github.com/zefinazein/tourism-weather-pipeline)**: end-to-end ELT pipeline correlating weather and tourism demand across five Indonesian provinces, built with Python, BigQuery, dbt, and Airflow (Astro + Cosmos).
 * 𖦹 **[crm-erp-data-warehouse-pipeline](https://github.com/zefinazein/crm-erp-data-warehouse-pipeline)**: SQL data warehouse that integrates CRM and ERP source data using a medallion architecture (bronze, silver, gold) for analytics. Built with T-SQL on SQL Server.
 
+<h2 align="center">𖠋𖠋.ᐟ let's get connected ⋆˙⟡</h2>
+
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/zafira-zefina-zein)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:zafirazefina@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/zefinazein)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:B5179E,50:E5386D,100:FFA6C9&height=60&section=footer&text=%E2%9D%81%E2%9C%BF%E2%9D%80%E2%9D%81%E2%9C%BF%E2%9D%80&fontSize=24&fontColor=ffffff&fontAlignY=50)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:FFC8E0,30:FFFFFF,60:D9C8FA,100:B9A2F0&height=60&section=footer&text=%E2%9D%81%E2%9C%BF%E2%9D%80%E2%9D%81%E2%9C%BF%E2%9D%80&fontSize=24&fontColor=7B4FBF&fontAlignY=50)
